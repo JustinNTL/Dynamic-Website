@@ -1,0 +1,6 @@
+   content = {
+       'title' : 'My First Post',
+       'author' : 'Justin',
+       'date' : '4th February 2019',
+       'body' : 'Energy can be neither created nor destroyed but only changed from one form to another. This principle is known as the conservation of energy or the first law of thermodynamics. For example, when a box slides down a hill, the potential energy that the box has from being located high up on the slope is converted to kinetic energy, energy of motion. As the box slows to a stop through friction, the kinetic energy from the box’s motion is converted to thermal energy that heats the box and the slope.'
+   }
